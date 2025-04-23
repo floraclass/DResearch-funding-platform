@@ -12,17 +12,12 @@ Traditional research funding is rigid, opaque, and slow. This platform flips tha
 
 ## 🧱 Core Components
 
-### 1. `research-funding.clar`
-- The central engine: handles proposal creation, milestone tracking, funding logic, and pivot management.
-
+### 1. `contract-registry.clar`
+- A trusted directory that tracks and verifies contracts across the platform.
+  
 ### 2. `expert-verification.clar`
 - Manages expert onboarding and milestone validation workflows.
 
-### 3. `research-token.clar`
-- A SIP-010 compliant fungible token used to facilitate all financial transactions.
-
-### 4. `contract-registry.clar`
-- A trusted directory that tracks and verifies contracts across the platform.
 
 ---
 
