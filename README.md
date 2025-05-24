@@ -18,6 +18,8 @@ Traditional research funding is rigid, opaque, and slow. This platform flips tha
 ### 2. `expert-verification.clar`
 - Manages expert onboarding and milestone validation workflows.
 
+### 3. `research-milestone.clar`
+-  A submission and expert verification of research milestones with multi-expert approval system and IPFS integration.
 
 ---
 
